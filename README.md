@@ -71,3 +71,27 @@ If you want to reuse this app in your project:
 
 ---
 ## Demo images
+
+- admin
+<img src="https://github.com/Kungreye/JanPoll/blob/master/IMGs/admin.png">
+<br>
+
+- admin change list
+<img src="https://github.com/Kungreye/JanPoll/blob/master/IMGs/admin_change_list.png">
+<br>
+
+- admin change list detail
+<img src="https://github.com/Kungreye/JanPoll/blob/master/IMGs/admin_change_detail.png">
+<br>
+
+- poll list
+<img src="https://github.com/Kungreye/JanPoll/blob/master/IMGs/polls.png">
+<br>
+
+- poll detail
+<img src="https://github.com/Kungreye/JanPoll/blob/master/IMGs/polls_id.png">
+<br>
+
+- poll result
+<img src="https://github.com/Kungreye/JanPoll/blob/master/IMGs/polls_id_results.png">
+<br>
